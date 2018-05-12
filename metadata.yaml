@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3767
     wikipedia: http://en.wikipedia.org/wiki/John_Morley,_1st_Viscount_Morley_of_Blackburn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24492#Critical-Miscellanies--Vol.-2-of-3-Essay-3--Condorcet
 gutenberg_issued: '2008-02-02'
 gutenberg_type: Text
 identifiers:
